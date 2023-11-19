@@ -1,0 +1,8 @@
+{
+    "path":"scripts/",
+    "scripts_list":[
+    ["script1" ,900],
+    ["script2", 800],
+    ["script3", 1000]
+    ]
+}
